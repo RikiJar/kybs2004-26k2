@@ -1,0 +1,20 @@
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{\numberline {1}Executive Summary}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Vulnerability overview}{2}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Results}{3}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Subdomain 1}{3}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Password cracking with John the Ripper and Hashcat}{3}{subsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.1.1}Minimal proof of concept}{3}{subsubsection.3.1.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.1.2}Verdict}{4}{subsubsection.3.1.1.2}%
+\contentsline {section}{\numberline {3.2}Subdomain 2}{5}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}RSA key-cracking}{5}{subsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.1.1}Minimal proof of concept}{5}{subsubsection.3.2.1.1}%
+\contentsline {section}{\numberline {3.3}Subdomain 3}{7}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}RSA file-message decryption}{7}{subsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.1.1}Minimal proof of concept}{7}{subsubsection.3.3.1.1}%
+\contentsline {section}{\numberline {3.4}Subdomain 4}{8}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}RSA file-message forged signature}{8}{subsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.1.1}Minimal proof of concept}{8}{subsubsection.3.4.1.1}%
+\contentsline {chapter}{\numberline {4}Appendices}{11}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Appendix \#1}{11}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Appendix \#2}{11}{section.4.2}%
